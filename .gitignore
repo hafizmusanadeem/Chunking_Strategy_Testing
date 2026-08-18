@@ -1,0 +1,6 @@
+.env
+CHUNKING_INTEGRATION_GUIDE.md
+CHUNKING_QUICK_REFERENCE.md
+results/
+data/
+__pycahce__/
